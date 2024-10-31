@@ -15,9 +15,10 @@ or else to be easier but not compatible with all versions made with dll.cobalt o
 
 
 
-this project and carried out by @Beyond
+
 
 there will also be a release of source codes to launch several Fortnite
 
 don't hesitate to give a star if you are interested in having dlls for an OGFN project
 
+this project and carried out by @Beyond
