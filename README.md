@@ -3,7 +3,8 @@ here are codes that can help you with an OGFN project
 please don't divulge too much
 thank you for respecting and not sharing like any other project
 
-DLL for Chapter 2 bots may not work only for version 12.41
+
+the 12.41 dll only the other versions do not work and also the botsplayers 11.31 dll
 
 the solo bots players dll version 11.31 can also malfunction it is under repair
 
