@@ -7,3 +7,8 @@ thank you for respecting and not sharing like any other project
 DLL for Chapter 2 bots may not work only for version 12.41
 
 the solo bots players dll version 11.31 can also malfunction it is under repair
+
+the fiddler basic code 
+works you have to change the url and some stuff if you wanted
+
+or else to be easier but not compatible with all versions made with dll.cobalt or with a proxy server
