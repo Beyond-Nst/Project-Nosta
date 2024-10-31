@@ -12,3 +12,11 @@ the fiddler basic code
 works you have to change the url and some stuff if you wanted
 
 or else to be easier but not compatible with all versions made with dll.cobalt or with a proxy server
+
+
+
+this project and carried out by @Beyond
+
+there will also be a release of source codes to launch several Fortnite
+
+
